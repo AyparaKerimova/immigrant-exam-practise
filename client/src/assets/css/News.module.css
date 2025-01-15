@@ -1,0 +1,20 @@
+.newsCardImg {
+    width: 540px;
+    height: 400px;
+    border-radius: 16px;
+}
+.newsCard {
+    width: 540;
+    height: 600px;
+    object-fit: cover;
+}
+.newsCardIcons {
+    display: flex;
+    gap:16px;
+    margin-top: 16px;
+}
+.newsBtn {
+    background-color: rgb(233, 15, 88);
+    padding: 8px;
+    color: white;
+}

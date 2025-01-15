@@ -1,0 +1,71 @@
+@media screen and (min-width: 992px) {   
+    .girlImage {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 50%;
+        height: 90%;
+    }
+    .textBox {
+        position: absolute;
+        top: 30%;
+        left:10%;
+        color: white;
+        width: 400px;
+    }
+    .textBox h1 {
+        font-weight: 700;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 992px) { 
+    .girlImage {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 40%;
+        height: 70%;
+    }
+    .textBox {
+        position: absolute;
+        top: 30%;
+        left:10%;
+        color: white;
+        width: 400px;
+    }
+    .textBox h1 {
+        font-weight: 700;
+    }
+}
+@media screen and (max-width: 576px) { 
+    .girlImage {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 40%;
+        height: 60%;
+    }
+    .textBox {
+        position: absolute;
+        top: 30%;
+        left:10%;
+        color: white;
+        width: 400px;
+    }
+    .textBox h1 {
+        font-weight: 700;
+    }
+}
+
+.hero {
+    background-color: rgb(233, 15, 88);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.bookBtn {
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 14px;
+}

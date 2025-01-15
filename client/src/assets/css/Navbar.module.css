@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap:14px;
+}
+
+.navbar .navbarItem {
+    text-decoration: none;
+    color: black;
+    transition: 0.4s;
+}
+
+.navbar .navbarItem:hover{
+    color: rgb(233, 15, 88);
+}

@@ -1,0 +1,23 @@
+.card {
+    width: 400px;
+    height: 500px;
+}
+
+.cardImg{
+    width: 400px;
+    height: 300px;
+}
+
+.cardIcons{
+    display: flex;
+    margin-top: 12px;
+    gap:12px
+}
+.cardIcons button {
+    background-color: white;
+    border: none;
+}
+.cardName {
+    font-weight: 600;
+    font-size: 48px;
+}

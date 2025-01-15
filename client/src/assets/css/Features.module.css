@@ -1,0 +1,8 @@
+.feature {
+    display: flex;
+    align-items: center;
+    gap:12px
+}
+.feature:hover{
+    color: rgb(233, 15, 88);
+}
